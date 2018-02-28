@@ -1,0 +1,1 @@
+My Wordpress blog, built using Bedrock and deployed using Capistrano.
